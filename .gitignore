@@ -1,0 +1,18 @@
+# Godot
+.import/
+.godot/
+export-templates/
+*.import
+
+# C# / IDE
+.vs/
+.vscode/.history/
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+
+# SO
+.DS_Store
+Thumbs.db
